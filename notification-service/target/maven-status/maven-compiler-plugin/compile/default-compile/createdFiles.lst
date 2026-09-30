@@ -1,0 +1,7 @@
+com\marketgrid\notification\EmailNotificationRecord$EmailNotificationRecordBuilder.class
+com\marketgrid\notification\EmailTemplateService.class
+com\marketgrid\notification\NotificationController.class
+com\marketgrid\notification\EmailNotificationRepository.class
+com\marketgrid\NotificationServiceApplication.class
+com\marketgrid\notification\EmailService.class
+com\marketgrid\notification\EmailNotificationRecord.class
